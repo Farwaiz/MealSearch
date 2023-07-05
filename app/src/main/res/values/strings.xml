@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">cw2</string>
+    <string name="enter">Enter the Ingredient</string>
+    <string name="add_meals_to_db">Add Meals to DB</string>
+    <string name="web_search">Meals Web Search</string>
+    <string name="meal_search">Search for Meals</string>
+    <string name="ingredient_meal">Meals By Ingredient</string>
+    <string name="save_meals_to_database">Save meals to Database</string>
+    <string name="retrieve_meals">Retrieve Meals</string>
+    <string name="meal_list">Meal List</string>
+    <string name="search">Search</string>
+    <string name="enter_the_meal">Enter the meal</string>
+</resources>
